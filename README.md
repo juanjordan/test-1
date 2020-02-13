@@ -13,8 +13,8 @@
 </ul>
 
 * [ ] <details><summary>Uso de etiquetas semánticas (nivel-1)</summary><ul>
-	  <li>uno</li>
-	  <li>dos</li>
+	  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/p"><code>&lt;p&gt;</code></a></li>
+	  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a></li>
 	</ul>
 </details>
 
