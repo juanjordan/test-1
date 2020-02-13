@@ -135,18 +135,14 @@
 
 ---
 
-<ul class="contains-task-list">
-	<li class="task-list-item">
-		<details><summary>* [ ] Darle estilos a elementos DOM (nivel-1)</summary><ul>
-			  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/p"><code>p</code></a></li>
-			  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/a"><code>a</code></a></li>
-			  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements"><code>headings (h1, etc)</code></a></li>
-			  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/div"><code>div</code></a></li>
-			  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/span"><code>span</code></a></li>
-			</ul>
-		</details>
-	</li>
-</ul>
+<details><summary>* [ ] Darle estilos a elementos DOM (nivel-1)</summary><ul>
+	  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/p"><code>p</code></a></li>
+	  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/a"><code>a</code></a></li>
+	  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements"><code>headings (h1, etc)</code></a></li>
+	  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/div"><code>div</code></a></li>
+	  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/span"><code>span</code></a></li>
+	</ul>
+</details>
 
 ---
 
