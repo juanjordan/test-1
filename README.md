@@ -62,6 +62,8 @@
 
 ---
 
+### Web
+
 * <details><summary>Uso de etiquetas semánticas (nivel-1)</summary><ul>
 	  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/p"><code>p</code></a></li>
 	  <li><a href="//developer.mozilla.org/en-US/docs/Web/HTML/Element/a"><code>a</code></a></li>
