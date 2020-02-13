@@ -12,8 +12,7 @@
   <li>
 </ul>
 
-* [ ] <details>
-	<summary>Uso de etiquetas semánticas (nivel-1)</summary>
+* [ ] <details><summary>Uso de etiquetas semánticas (nivel-1)</summary>
 	<ul>
 	  <li>uno</li>
 	  <li>dos</li>
